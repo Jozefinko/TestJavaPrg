@@ -1,0 +1,52 @@
+
+Global Beverage Corporation Exchange is open at: Sun Oct 09 18:00:52 CEST 2016
+Global Beverage Corporation Exchange was closed at: Sun Oct 09 18:15:52 CEST 2016 with 12679 trades.
+
+Last 10 trades are:
+Stock SELL with Symbol TEA at Sun Oct 09 18:00:52 CEST 2016 with price 160,92
+Stock BUY with Symbol POP at Sun Oct 09 18:00:52 CEST 2016 with price 129,42
+Stock SELL with Symbol GIN at Sun Oct 09 18:00:52 CEST 2016 with price 135,90
+Stock BUY with Symbol TEA at Sun Oct 09 18:00:52 CEST 2016 with price 156,61
+Stock BUY with Symbol TEA at Sun Oct 09 18:00:52 CEST 2016 with price 67,84
+Stock SELL with Symbol JOE at Sun Oct 09 18:00:52 CEST 2016 with price 278,48
+Stock SELL with Symbol ALE at Sun Oct 09 18:00:52 CEST 2016 with price 73,46
+Stock BUY with Symbol GIN at Sun Oct 09 18:00:52 CEST 2016 with price 175,04
+Stock BUY with Symbol POP at Sun Oct 09 18:00:52 CEST 2016 with price 87,96
+Stock SELL with Symbol TEA at Sun Oct 09 18:00:52 CEST 2016 with price 158,60
+
+Statistics:
+|Stock name		|Dividend yield		|PE ratio		|Stock price		|
+|TEA			|0,00			|0,00			|125,04			|
+|POP			|0,06			|15,59			|124,75			|
+|ALE			|0,31			|3,25			|74,74			|
+|GIN			|1,62			|15,46			|123,70			|
+|JOE			|0,04			|24,32			|316,21			|
+
+Global Beverage Corporation Exchange All Share Index: 126,30
+
+or
+
+Global Beverage Corporation Exchange is open at: Sun Oct 09 20:11:43 CEST 2016
+Global Beverage Corporation Exchange was closed at: Sun Oct 09 20:26:43 CEST 2016 with 8838 trades.
+
+Last 10 trades are:
+Stock SELL with Symbol GIN at Sun Oct 09 20:11:43 CEST 2016 with price 73,29
+Stock SELL with Symbol POP at Sun Oct 09 20:11:43 CEST 2016 with price 75,91
+Stock SELL with Symbol TEA at Sun Oct 09 20:11:43 CEST 2016 with price 54,91
+Stock SELL with Symbol TEA at Sun Oct 09 20:11:43 CEST 2016 with price 128,64
+Stock SELL with Symbol JOE at Sun Oct 09 20:11:43 CEST 2016 with price 490,89
+Stock BUY with Symbol JOE at Sun Oct 09 20:11:43 CEST 2016 with price 248,74
+Stock BUY with Symbol GIN at Sun Oct 09 20:11:43 CEST 2016 with price 165,37
+Stock BUY with Symbol TEA at Sun Oct 09 20:11:43 CEST 2016 with price 70,41
+Stock SELL with Symbol ALE at Sun Oct 09 20:11:43 CEST 2016 with price 49,55
+Stock BUY with Symbol POP at Sun Oct 09 20:11:43 CEST 2016 with price 104,31
+
+Statistics:
+|Stock name		|Dividend yield		|PE ratio		|Stock price		|
+|TEA			|0,00			|0,00			|124,41			|
+|POP			|0,06			|15,54			|124,31			|
+|ALE			|0,31			|3,22			|74,13			|
+|GIN			|1,58			|15,79			|126,31			|
+|JOE			|0,04			|24,12			|313,52			|
+
+Global Beverage Corporation Exchange All Share Index: 126,49
